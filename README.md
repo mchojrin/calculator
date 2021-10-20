@@ -1,5 +1,5 @@
 # calculator
-A POC for php testing tools
+## A Proof Of Concept for php testing tools
 
 This project is the counterpart of [this post]() where I go through an introduction to php testing tools.
 
